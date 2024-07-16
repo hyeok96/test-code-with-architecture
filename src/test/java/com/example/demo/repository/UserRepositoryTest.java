@@ -1,8 +1,6 @@
-package com.example.demo;
+package com.example.demo.repository;
 
 import com.example.demo.model.UserStatus;
-import com.example.demo.repository.UserEntity;
-import com.example.demo.repository.UserRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
